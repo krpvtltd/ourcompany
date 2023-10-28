@@ -1,0 +1,79 @@
+/* @media (min-width:200px) and (max-width:524px) {
+    .myimg{
+        height: 400px;
+        width: 400px;
+        margin-top: 70px;
+    }
+}
+@media (width:375px){
+    .myimg{
+        height: 370px;
+        width: 370px;
+        margin-top: 70px;
+    }
+} */
+@media (min-width:200px) and (max-width:2004px) {
+    .projectcard1{
+        width: 90%;
+        justify-content: center;
+        text-align: center;
+        margin-top: 60px;
+        border-radius: 10px;
+        margin-left: 5%;
+        /* border: 1px solid black; */
+    }
+    .projectcard2{
+        width: 90%;
+        background-color: transparent;
+        /* display: flex;
+        justify-content: center; */
+        text-align: center;
+        margin-top: 60px;
+        border-radius: 10px;
+        margin-left: 5%;
+        /* border: 1px solid black; */
+    }
+    .projectcard3{
+        width: 90%;
+        background-color: transparent;
+        /* display: flex;
+        justify-content: center; */
+        text-align: center;
+        margin-top: 60px;
+        border-radius: 10px;
+        margin-left: 5%;
+        /* border: 1px solid black; */
+    }
+} 
+@media (min-width:200px) and (max-width:700px) {
+    .myresume3 {
+        margin-top: 40px;
+        height: auto;
+    }
+}
+@media (min-width:200px) and (max-width:858px) {
+    .pra1 p{
+        margin-top: 20px;
+        height: auto;
+    }
+    .pra2 p{
+        margin-top: 20px;
+        height: auto;
+    }
+    .pra3 p{
+        margin-top: 20px;
+        height: auto;
+    }
+}
+@media (min-width:700px) and (max-width:2000px) {
+    .myresume3 {
+        /* width: 300px; */
+        /* padding: 20px; */
+        margin-left: 40px;
+        height: auto;
+        /* display: flex;
+        justify-content: center; */
+        /* box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.24) , 0 6px 20px  0 rgba(0, 0, 0, 0.024);`1 */
+        /* background-color: #adb5bd23 ; */
+    }
+}
