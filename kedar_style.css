@@ -104,6 +104,7 @@
     height: 60px;
     cursor: pointer;
     border-radius: 8px;
+    margin-top:20px;
     font-weight: bolder;
     color: white;
     font-size: 1rem !important;
@@ -121,6 +122,7 @@
     cursor: pointer;
     font-size: 1rem !important;
     font-weight: bolder;
+    margin-top:20px;
     height: 60px;
     border-radius: 8px;
     margin-left: 10px;
